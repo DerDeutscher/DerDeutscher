@@ -1,6 +1,6 @@
 ## Smart contract security researcher.
 
-- 🕵️‍♂️ 50+ vulnerabilities found across audit competitions
+- 🕵️‍♂️ 60+ vulnerabilities found across audit competitions
 - 🛠️ Solidity, Foundry, testnet deployments
 - ⛓️ Focused on EVM, DeFi protocols, and secure contract design
 - 🦀 Currently learning Rust
